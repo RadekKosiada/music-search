@@ -1,0 +1,30 @@
+* {
+    font-family: sans-serif;
+}
+
+#results-for, #no-results  {
+    font-weight: bold;
+}
+
+#results-container {
+    /* width: 50vw; */
+}
+
+.search-term {
+    font-style: italic;
+}
+
+.image {
+    width: 120px;
+    height: 120px;
+    object-fit: contain;
+
+}
+
+.link-to-result {
+    text-decoration: none;
+}
+
+/* .artist-name, .image {
+    display: inline-block;
+} */
